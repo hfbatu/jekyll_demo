@@ -1,1 +1,5 @@
+safe: true
+lsi: false
+pygments: true
+source: /jekyll_demo
 baseurl: /jekyll_demo
